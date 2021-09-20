@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/font.spritefont</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/gameEndOverlay.png</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/menuFont.spritefont</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/mine.png</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/subMenuFont.spritefont</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileClosed.png</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileFlag.png</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileOpened.png</File>
+    <File>D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileSelected.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

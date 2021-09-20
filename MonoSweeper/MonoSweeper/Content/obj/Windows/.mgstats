@@ -1,0 +1,10 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/font.spritefont","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2024,136226,0.2629456
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/gameEndOverlay.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/gameEndOverlay.xnb","TextureProcessor","Texture2DContent",91,341,0.2688935
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/menuFont.spritefont","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/menuFont.xnb","FontDescriptionProcessor","SpriteFontContent",2027,529442,0.2287515
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/mine.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/mine.xnb","TextureProcessor","Texture2DContent",105,341,0.1444636
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/subMenuFont.spritefont","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/subMenuFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.0400674
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileClosed.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/tileClosed.xnb","TextureProcessor","Texture2DContent",114,341,0.1166497
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileFlag.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/tileFlag.xnb","TextureProcessor","Texture2DContent",146,341,0.0013748
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileOpened.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/tileOpened.xnb","TextureProcessor","Texture2DContent",116,341,0.0083141
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/tileSelected.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/tileSelected.xnb","TextureProcessor","Texture2DContent",114,341,0.0013832
