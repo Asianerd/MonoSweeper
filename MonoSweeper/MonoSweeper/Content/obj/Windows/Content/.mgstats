@@ -1,5 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/font.spritefont","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2024,136226,0.2033081
+"D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/font.spritefont","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2023,21538,0.212524
 "D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/gameEndOverlay.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/Content/gameEndOverlay.xnb","TextureProcessor","Texture2DContent",91,341,0.1306441
 "D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/menuFont.spritefont","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/Content/menuFont.xnb","FontDescriptionProcessor","SpriteFontContent",2027,529442,0.2370102
 "D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/mine.png","D:/GithubRepos/MonoSweeper/MonoSweeper/MonoSweeper/Content/bin/Windows/Content/mine.xnb","TextureProcessor","Texture2DContent",105,341,0.1245002

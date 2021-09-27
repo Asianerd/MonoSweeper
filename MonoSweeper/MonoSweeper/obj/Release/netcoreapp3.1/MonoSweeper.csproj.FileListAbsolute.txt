@@ -43,3 +43,4 @@ D:\GithubRepos\MonoSweeper\MonoSweeper\MonoSweeper\obj\Release\netcoreapp3.1\Mon
 D:\GithubRepos\MonoSweeper\MonoSweeper\MonoSweeper\obj\Release\netcoreapp3.1\MonoSweeper.dll
 D:\GithubRepos\MonoSweeper\MonoSweeper\MonoSweeper\obj\Release\netcoreapp3.1\MonoSweeper.pdb
 D:\GithubRepos\MonoSweeper\MonoSweeper\MonoSweeper\obj\Release\netcoreapp3.1\MonoSweeper.genruntimeconfig.cache
+D:\GithubRepos\MonoSweeper\MonoSweeper\MonoSweeper\obj\Release\netcoreapp3.1\MonoSweeper.csproj.AssemblyReference.cache
